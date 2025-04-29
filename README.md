@@ -104,7 +104,8 @@ void client(int wfd, int rfd) {
 
 ## OUTPUT
 
-![pipe](./img/ex3-pipe.png)
+![image](https://github.com/user-attachments/assets/977cfd2b-080d-48db-beca-07e7581ca5da)
+
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 ```c#include <stdio.h>
@@ -199,7 +200,8 @@ void client() {
 
 
 ## OUTPUT
-![fifo](./img/ex3-fifo.png)
+![image](https://github.com/user-attachments/assets/3c6a80c0-563a-4978-a549-1f904f2d2c5e)
+
 
 # RESULT:
 The program is executed successfully.
